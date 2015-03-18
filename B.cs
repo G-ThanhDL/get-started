@@ -1,3 +1,5 @@
 class B {
-  // yet another empty one
+  public void init() {
+    // initialize here
+  }
 }
