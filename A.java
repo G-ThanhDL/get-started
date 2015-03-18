@@ -1,3 +1,5 @@
 class A {
-	// new class, there’s nothing here
+	public A() {
+		// empty constructor
+	}
 }
