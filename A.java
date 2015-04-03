@@ -3,6 +3,7 @@ class A {
 		// empty constructor
 	}
 
+	// set everything up
 	public void setUp() {
 	}
 }
