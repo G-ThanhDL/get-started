@@ -3,7 +3,7 @@ class B {
     // initialize here
   }
   
-  public void doSmthg() {
+  public void doSomething() {
     // do something
   }
 }
