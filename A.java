@@ -6,4 +6,5 @@ class A {
 	// set everything up
 	public void setUp() {
 	}
+	return true;
 }
