@@ -10,6 +10,7 @@ class B {
   private bool isReady() {
     return false;
   }
+ 
   
   return true;
 }
