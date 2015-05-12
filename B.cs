@@ -12,4 +12,5 @@ class B {
   }
   
   return true;
+
 }
