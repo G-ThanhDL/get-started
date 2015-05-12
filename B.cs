@@ -6,8 +6,10 @@ class B {
   public void doSomething() {
     // do something
   }
-
+  
   private bool isReady() {
     return false;
   }
+  
+  return true;
 }
